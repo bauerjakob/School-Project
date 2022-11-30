@@ -1,0 +1,11 @@
+Einführung:                                     Tobi
+Einbindung Bibliotheken                         Tobi
+Konstate Variablen                              Tobi/Jakob
+Benutzuereingabe richtig erkennen:              Jakob
+    - Beispielaufruf 1-3                        Jakob
+Konveration + Life Demo                         Tobi
+Aktuellen Krypto-Preis abfragen                 Jakob
+Name von Kryptowährung ermitteln                Tobi
+Rückgabe von Dialogflow verarbeiten             Jakob
+Ausgabe in Konsole                              Jakob  
+Finale Ausgabe                                  
