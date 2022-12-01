@@ -1,6 +1,6 @@
 Einführung:                                     Tobi
 Einbindung Bibliotheken                         Tobi
-Konstate Variablen                              Tobi/Jakob
+Konstate Variablen                              Tobi
 Benutzuereingabe richtig erkennen:              Jakob
     - Beispielaufruf 1-3                        Jakob
 Konveration + Life Demo                         Tobi
